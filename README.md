@@ -1,3 +1,3 @@
-# hw05_final
+# Проект создания полноценного сайта на базе Django
 
-[![CI](https://github.com/yandex-praktikum/hw05_final/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/yandex-praktikum/hw05_final/actions/workflows/python-app.yml)
+Весь сайт собирается при помощи стандартных возможностей Django из заранее заготовленных HTML-шаблонов, работают формы для создания постов и комментариев. Работает панель администратора.
